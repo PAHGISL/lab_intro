@@ -19,7 +19,7 @@ When you want to work on something new, you don't touch the Final Report directl
 We are going to create a branch using your **Uni ID** so we can identify who is working on what.
 
 ### Step 1: Create your Branch
-1.  Open our `lab-intro-demo` project in VS Code.
+1.  Open our `lab-intro` project in VS Code.
 2.  Look at the very **bottom-left corner** of the VS Code blue bar. You should see the word `main` (or `master`) next to a little graph icon.
 3.  Click on `main`. A menu will pop up at the top.
 4.  Select **+ Create new branch...**

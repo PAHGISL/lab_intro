@@ -43,7 +43,7 @@ In GitHub terms, a project folder is called a **Repository** (or "repo").
 
 1.  Log into GitHub.com.
 2.  Click the **+** icon in the top right corner -> **New repository**.
-3.  Name it: `lab-intro-demo`.
+3.  Name it: `lab-intro`.
 4.  Check the box: **Add a README file**.
 5.  Click **Create repository**.
 
