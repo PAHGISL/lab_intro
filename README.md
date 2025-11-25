@@ -1,7 +1,6 @@
 # 🧪 GitHub 101: Version Control for PAHGISL
 
-Welcome to the PAHGISL's introductory session on GitHub! This guide will help you set up your environment and understand the basics of version control without getting technical.
-
+THE CHAMP IS HERE
 ## ✅ Prerequisites (Complete Before Session)
 
 To make the most of our workshop, please complete these three steps before you arrive:
