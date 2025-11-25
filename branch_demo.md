@@ -16,21 +16,21 @@ When you want to work on something new, you don't touch the Final Report directl
 
 ## The Task: Create Your Own Workspace
 
-We are going to create a branch using your **Uni ID** so we can identify who is working on what.
+We are going to create a branch using your **UniKey** so we can identify who is working on what.
 
 ### Step 1: Create your Branch
 1.  Open our `lab-intro` project in VS Code.
 2.  Look at the very **bottom-left corner** of the VS Code blue bar. You should see the word `main` (or `master`) next to a little graph icon.
 3.  Click on `main`. A menu will pop up at the top.
 4.  Select **+ Create new branch...**
-5.  **Name it:** Type your **Uni ID** (e.g., `jdoe1234`) and press Enter.
+5.  **Name it:** Type your **UniKey** (e.g., `yiyu0116`) and press Enter.
 
-*Result:* Look at the bottom-left corner again. It should now show your Uni ID. You are now working in your own parallel universe!
+*Result:* Look at the bottom-left corner again. It should now show your UniKey. You are now working in your own parallel universe!
 
 ### Step 2: Make a Change "Safely"
 Now that you are in your own branch, you can do anything you want without breaking the main code.
 
-1.  Create a new file named `[your_uni_id].txt` (e.g., `jdoe1234.txt`).
+1.  Create a new file named `[your_uni_id].txt` (e.g., `yiyu0116.txt`).
 2.  Inside, write one sentence about your current research focus.
 3.  Save the file.
 
@@ -66,7 +66,7 @@ Now your work is on GitHub, but it's still separate from the "Final Report" (`ma
 ---
 
 ## Summary Checklist
-* [ ] Created a branch with my Uni ID.
+* [ ] Created a branch with my UniKey.
 * [ ] Made changes safely in that branch.
 * [ ] Published (Pushed) the branch to GitHub.
 * [ ] Opened a Pull Request on the website.
