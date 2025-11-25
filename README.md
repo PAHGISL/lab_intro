@@ -34,6 +34,8 @@ We don't just "save" files in Git; we take snapshots.
 3.  **Commit:** You take the snapshot and label it (e.g., "Added new graph").
 4.  **Push:** You upload that snapshot to the website (GitHub).
 
+![Git Workflow Diagram](github_workflow.png)
+
 ---
 
 ## Part 2: Let's Get Started
